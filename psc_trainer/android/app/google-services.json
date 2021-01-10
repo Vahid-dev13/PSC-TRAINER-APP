@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "258534831148",
+    "firebase_url": "https://psc-trainer-32020.firebaseio.com",
+    "project_id": "psc-trainer-32020",
+    "storage_bucket": "psc-trainer-32020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258534831148:android:e8b1c04f2bd47ba4684d89",
+        "android_client_info": {
+          "package_name": "me.imvahid.psc_trainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258534831148-2momntc5q4rt9n3u0n7c8ck139qa91fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7q6l5eqPdXbtVga2SQeZAH_KKUO2hIXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258534831148-2momntc5q4rt9n3u0n7c8ck139qa91fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
